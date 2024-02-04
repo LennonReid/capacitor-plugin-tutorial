@@ -3,9 +3,11 @@
   "version": "0.0.1",
   "description": "The Capacitor project that goes along with the 'Building a Capacitor Plugin' tutorial.",
   "dependencies": {
+    "@capacitor/android": "^5.6.0",
     "@capacitor/app": "5.0.7",
     "@capacitor/core": "5.6.0",
     "@capacitor/haptics": "5.0.7",
+    "@capacitor/ios": "^5.6.0",
     "@capacitor/keyboard": "5.0.8",
     "@capacitor/status-bar": "5.0.7",
     "@ionic/react": "^7.7.0",
